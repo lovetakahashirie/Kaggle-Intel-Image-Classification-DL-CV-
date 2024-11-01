@@ -1,5 +1,6 @@
 # Kaggle-Intel-Image-Classification-DL-CV-
 my project for the Kaggle Intel Image Classification
+
 train, test accuracy ~81%, no overfit
 ```
 .
