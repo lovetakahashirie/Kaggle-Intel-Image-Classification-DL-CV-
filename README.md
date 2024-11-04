@@ -2,6 +2,8 @@
 my project for the Kaggle Intel Image Classification
 
 train, test accuracy ~81%, no overfit
+![image](https://github.com/user-attachments/assets/17c3657a-ad95-453a-b29c-f3acee232791)
+
 
 for input dataset, download from https://www.kaggle.com/datasets/puneet6060/intel-image-classification/data
 ```
