@@ -1,7 +1,7 @@
 # Kaggle-Intel-Image-Classification-DL-CV-
 my project for the Kaggle Intel Image Classification
 
-can train more epochs for higher accuracy
+
 ![image](https://github.com/user-attachments/assets/17c3657a-ad95-453a-b29c-f3acee232791)
 
 
